@@ -1,4 +1,6 @@
 typography_spectrum: 0.25398872629739344
+content_rating:
+  adult: true
 color:
   brandStrength: 0.38685234310105443
   lightness: 0.8098700726404786
@@ -11,6 +13,8 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.2965128510259092
+author:
+  email: PAPERFACE908@gmail.com
 name: PAPERFACE
 navigation:
   - name: ART
