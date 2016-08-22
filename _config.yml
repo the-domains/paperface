@@ -16,5 +16,8 @@ navigation:
   - name: ART
     url: 'https://www.instagram.com/pape908/'
     type: external
+  - name: MUSIC
+    url: 'https://soundcloud.com/paperface'
+    type: external
 title: THE MAN
 description: Behind the Mask
