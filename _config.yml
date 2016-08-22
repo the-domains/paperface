@@ -1,4 +1,3 @@
-layout_spectrum: 0.2965128510259092
 typography_spectrum: 0.25398872629739344
 color:
   brandStrength: 0.38685234310105443
@@ -6,9 +5,11 @@ color:
   saturation: 0.8863587866071612
   rhythmicContrast: 0.15908687585033476
   brandColors:
-    - '#E8CAA8'
-    - '#392907'
-    - '#7E6626'
-    - '#000000'
-    - '#BA9B6C'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.2965128510259092
 name: PAPERFACE
+title: THE MAN
