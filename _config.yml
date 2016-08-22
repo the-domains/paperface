@@ -19,5 +19,8 @@ navigation:
   - name: MUSIC
     url: 'https://soundcloud.com/paperface'
     type: external
+  - name: VIDEO
+    url: 'https://vimeo.com/pape908'
+    type: external
 title: THE MAN
 description: Behind the Mask
