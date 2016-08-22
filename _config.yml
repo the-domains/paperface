@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.2965128510259092
 name: PAPERFACE
+navigation:
+  - name: ART
+    url: 'https://www.instagram.com/pape908/'
+    type: external
 title: THE MAN
 description: Behind the Mask
