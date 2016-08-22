@@ -1,5 +1,6 @@
-layout_spectrum: 0.5453244592063129
 typography_spectrum: 0.12854943750426173
+content_rating:
+  adult: true
 color:
   brandStrength: 0.7269403806421906
   lightness: 0.5600236884783953
@@ -11,8 +12,7 @@ color:
     - '#756251'
     - '#F6EFE5'
     - '#E9A370'
-content_rating:
-  adult: true
+layout_spectrum: 0.5453244592063129
 author:
   email: PAPERFACE908@gmail.com
 name: PAPERFACE
@@ -31,6 +31,9 @@ navigation:
     type: external
   - name: TUMBLR
     url: 'http://paperface908.tumblr.com'
+    type: external
+  - name: TWITTER
+    url: 'https://twitter.com/pape908'
     type: external
 title: THE MAN
 description: Behind the Mask
