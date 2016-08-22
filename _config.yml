@@ -26,5 +26,8 @@ navigation:
   - name: VIDEO
     url: 'https://vimeo.com/pape908'
     type: external
+  - name: TUMBLR
+    url: 'http://paperface908.tumblr.com'
+    type: external
 title: THE MAN
 description: Behind the Mask
