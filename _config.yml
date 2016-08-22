@@ -20,14 +20,14 @@ navigation:
   - name: ART
     url: 'https://www.instagram.com/pape908/'
     type: external
-  - name: INSTA
-    url: 'https://www.instagram.com/paperface908'
-    type: external
   - name: MUSIC
     url: 'https://soundcloud.com/paperface'
     type: external
   - name: VIDEO
     url: 'https://vimeo.com/pape908'
+    type: external
+  - name: INSTA
+    url: 'https://www.instagram.com/paperface908'
     type: external
   - name: TUMBLR
     url: 'http://paperface908.tumblr.com'
