@@ -29,11 +29,11 @@ navigation:
   - name: INSTA
     url: 'https://www.instagram.com/paperface908'
     type: external
-  - name: TUMBLR
-    url: 'http://paperface908.tumblr.com'
-    type: external
   - name: TWITTER
     url: 'https://twitter.com/pape908'
+    type: external
+  - name: TUMBLR
+    url: 'http://paperface908.tumblr.com'
     type: external
 title: THE MAN
 description: Behind the Mask
